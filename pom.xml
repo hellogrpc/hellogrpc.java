@@ -1,13 +1,10 @@
-
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.stackmachine.hellogrpc</groupId>
   <!-- PULL IN THIS VALUE FROM THE GRPC FILE -->
   <artifactId>hellogrpc</artifactId>
   <packaging>jar</packaging>
-  <version>0.0.1471411647</version>
+  <version>0.0.1471413480</version>
   <name>examples</name>
   <url>http://maven.apache.org</url>
   <properties>
