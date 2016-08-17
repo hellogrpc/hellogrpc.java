@@ -4,11 +4,11 @@
   <!-- PULL IN THIS VALUE FROM THE GRPC FILE -->
   <artifactId>hellogrpc</artifactId>
   <packaging>jar</packaging>
-  <version>0.0.1471413480</version>
+  <version>0.0.1471414830</version>
   <name>examples</name>
   <url>http://maven.apache.org</url>
   <properties>
-    <grpc.version>0.15.0</grpc.version><!-- CURRENT_GRPC_VERSION -->
+    <grpc.version>1.0.0-pre2</grpc.version><!-- CURRENT_GRPC_VERSION -->
   </properties>
   <dependencies>
     <dependency>
